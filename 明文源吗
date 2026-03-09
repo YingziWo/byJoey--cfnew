@@ -2307,7 +2307,7 @@
                     selectClient: '[ 选择客户端 ]',
                     systemStatus: '[ 系统状态 ]',
                     configManagement: '[ 配置管理 ]',
-                    relatedLinks: '[ 相关链接 ]',
+                    relatedLinks: '[ 使用 鼓励 支持 进步 ]',// relatedLinks: '[ 相关链接 ]',
                     checking: '检测中...',
                     workerRegion: 'Worker地区: ',
                     detectionMethod: '检测方式: ',
